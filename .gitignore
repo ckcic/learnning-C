@@ -1,0 +1,7 @@
+*.log
+.vs
+x64
+*.sin
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
